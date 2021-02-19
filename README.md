@@ -5,7 +5,7 @@ Js-card - É a maneira de exercitar meus conhecimentos em JS.
 -- criar um efeito 3D  usando javascript.
 
 P
--🚀💻--https://bruna15lima.github.io/finances.io/
+-🚀💻--https://bruna15lima.github.io/js-3d-card/.
 
 ⚙️ Funcionalidades
  Card de anúncios animado!
